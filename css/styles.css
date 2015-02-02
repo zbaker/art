@@ -1,6 +1,8 @@
 /* Your Website Styles */
 
-
+h1, p {
+	font-family: 'Chewy', cursive;
+}
 
 /* Show Grid */
 .showgrid {
